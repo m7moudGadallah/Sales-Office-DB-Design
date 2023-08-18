@@ -12,7 +12,7 @@ This repository contains the database design for a sales office management syste
     - [How To Use](#how-to-use)
     - [Design](#design)
         - [Entity-Relationship Diagram ERD](#entity-relationship-diagram-erd)
-        - [Schema Definition](#schema-definition)
+        - [Database Schema](#database-schema)
         - [Normalized Schema](#normalized-schema)
         - [Enhanced Entity-Relationship Diagram EERD](#enhanced-entity-relationship-diagram-eerd)
     - [Implementation](#implementation)
@@ -47,7 +47,9 @@ This could include steps for setting up the database, loading data, executing qu
 
 **[&uarr; Top](#table-of-centent)**
 
-### Schema Definition
+### Database Schema
+
+![Schema](./design/sales_office_schema.png)
 
 **[&uarr; Top](#table-of-centent)**
 
