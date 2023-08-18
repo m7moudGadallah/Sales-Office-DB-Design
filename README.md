@@ -43,6 +43,8 @@ This could include steps for setting up the database, loading data, executing qu
 
 ### Entity-Relationship Diagram (ERD)
 
+![ERD](./design/sales_office_erd.png)
+
 **[&uarr; Top](#table-of-centent)**
 
 ### Schema Definition
