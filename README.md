@@ -61,6 +61,8 @@ This could include steps for setting up the database, loading data, executing qu
 
 ### Enhanced Entity-Relationship Diagram (EERD)
 
+![EERD](./design/sales_office_eerd.png)
+
 **[&uarr; Top](#table-of-centent)**
 
 ## Implementation
