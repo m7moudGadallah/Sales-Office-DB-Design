@@ -1,5 +1,13 @@
 # Sales Office Database Design
 
+<div align="center" width=100%>
+    &emsp;
+    <img src="./img/erd.png" alt="erd" width=10%" />
+    <img src="./img/eerd.png" alt="eerd" width=10%" />
+    <img src="./img/database-storage.png" alt="DB" width=10%" />
+</div>
+<br>
+
 This repository contains the database design for a sales office management system. The database captures information about sales offices, employees, properties, and property ownership. The design emphasizes efficient data management, adherence to business requirements, and normalization.
 
 ## Table Of Content
@@ -74,3 +82,5 @@ Explore the `queries` directory for the implementation details, including creati
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+**[&uarr; Top](#table-of-centent)**
