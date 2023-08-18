@@ -55,6 +55,8 @@ This could include steps for setting up the database, loading data, executing qu
 
 ### Normalized Schema
 
+![Normalized-Schema](./design/sales_office_schema_normalized.png)
+
 **[&uarr; Top](#table-of-centent)**
 
 ### Enhanced Entity-Relationship Diagram (EERD)
