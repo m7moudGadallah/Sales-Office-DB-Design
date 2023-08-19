@@ -24,6 +24,8 @@ This repository contains the database design for a sales office management syste
         - [Normalized Schema](#normalized-schema)
         - [Enhanced Entity-Relationship Diagram EERD](#enhanced-entity-relationship-diagram-eerd)
     - [Implementation](#implementation)
+        - [Creating the Database](#creating-the-database)
+        - [MS Sql Server DB Digram](#ms-sql-server-db-digram)
     - [License](#license)
 
 <!-- /TOC -->
@@ -75,7 +77,15 @@ This could include steps for setting up the database, loading data, executing qu
 
 ## Implementation
 
-Explore the `queries` directory for the implementation details, including creating the schema, loading data, and executing SQL queries.
+Explore the `implementation` directory for the implementation details, including:
+
+### Creating the Database
+
+Run the SQL queries in [create_db.sql](./implementation/create_db.sql) to set up the database structure.
+
+### MS Sql Server DB Digram
+
+![MS Sql Server DB Digram](./implementation/db_digram.png)
 
 **[&uarr; Top](#table-of-centent)**
 
